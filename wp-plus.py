@@ -6,23 +6,14 @@ import string
 import time
 import os
 import sys
-os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO")
+os.system("title WARP-PLUS referral script By SIAM")
 os.system('cls' if os.name == 'nt' else 'clear')
-print('      _______ _      __________________       _______ _______ _______ _______\n'
-'     (  ___  | \     \__   __|__   __( \     (  ___  |  ____ |  ____ |  ___  )\n'
-'     | (   ) | (        ) (     ) (  | (     | (   ) | (    )| (    )| (   ) |\n'
-'     | (___) | |        | |     | |  | |     | (___) | (____)| (____)| |   | |\n'
-'     |  ___  | |        | |     | |  | |     |  ___  |  _____)     __) |   | |\n'
-'     | (   ) | |        | |     | |  | |     | (   ) | (     | (\ (  | |   | |\n'
-'     | )   ( | (____/\__) (_____) (__| (____/\ )   ( | )     | ) \ \_| (___) |\n'
-'     |/     \(_______|_______|_______(_______//     \|/      |/   \__(_______)\n')
+
 print ("[+] ABOUT SCRIPT:")
 print ("[-] With this script, you can getting unlimited GB on Warp+.")
 print ("[-] Version: 4.0.0")
 print ("--------")
-print ("[+] THIS SCRIPT CODDED BY ALIILAPRO") 
-print ("[-] SITE: aliilapro.github.io") 
-print ("[-] TELEGRAM: aliilapro")
+print ("[+] THIS SCRIPT CODDED BY SIAM") 
 print ("--------")
 referrer = input("[#] Enter the WARP+ ID:")
 def genString(stringLength):
@@ -71,7 +62,7 @@ while True:
 		g = g + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                  WARP-PLUS-CLOUDFLARE (script)" + " By ALIILAPRO")
+		print("                  WARP-PLUS-SCRIPT BY SIAM")
 		print("")
 		animation = ["[■□□□□□□□□□] 10%","[■■□□□□□□□□] 20%", "[■■■□□□□□□□] 30%", "[■■■■□□□□□□] 40%", "[■■■■■□□□□□] 50%", "[■■■■■■□□□□] 60%", "[■■■■■■■□□□] 70%", "[■■■■■■■■□□] 80%", "[■■■■■■■■■□] 90%", "[■■■■■■■■■■] 100%"] 
 		for i in range(len(animation)):
@@ -81,13 +72,13 @@ while True:
 		print(f"\n[-] WORK ON ID: {referrer}")    
 		print(f"[:)] {g} GB has been successfully added to your account.")
 		print(f"[#] Total: {g} Good {b} Bad")
-		print("[*] After 18 seconds, a new request will be sent.")
+		print("[*] Please wait 18 second for next request.")
 		time.sleep(18)
 	else:
 		b = b + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                  WARP-PLUS-CLOUDFLARE (script)" + " By ALIILAPRO")
+		print("                  WARP-PLUS-SCRIPT BY SIAM")
 		print("")
 		print("[:(] Error when connecting to server.")
 		print(f"[#] Total: {g} Good {b} Bad")	
